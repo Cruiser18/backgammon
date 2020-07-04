@@ -1,0 +1,14 @@
+F:\Development\Backgammon\Backgammon\bin\Debug\Backgammon.exe.config
+F:\Development\Backgammon\Backgammon\bin\Debug\Backgammon.exe
+F:\Development\Backgammon\Backgammon\bin\Debug\Backgammon.pdb
+F:\Development\Backgammon\Backgammon\obj\Debug\Backgammon.csprojAssemblyReference.cache
+F:\Development\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.CoreCompileInputs.cache
+F:\Development\Backgammon\Backgammon\obj\Debug\Backgammon.exe
+F:\Development\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
+F:\Development\Backgammon\Backgammon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Development\Backgammon\Backgammon\bin\Debug\Unity.Abstractions.dll
+F:\Development\Backgammon\Backgammon\bin\Debug\Unity.Container.dll
+F:\Development\Backgammon\Backgammon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Development\Backgammon\Backgammon\bin\Debug\Unity.Abstractions.pdb
+F:\Development\Backgammon\Backgammon\bin\Debug\Unity.Container.pdb
+F:\Development\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.CopyComplete
